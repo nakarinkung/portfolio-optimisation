@@ -1,5 +1,3 @@
-# portfolio-optimisation
-
 # 📈 Portfolio Optimisation with Linear Regression (CAPM & Quadratic Programming)
 
 This project applies the **Capital Asset Pricing Model (CAPM)** and **Quadratic Programming** techniques to perform **portfolio optimisation**.  
